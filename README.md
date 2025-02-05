@@ -1,19 +1,16 @@
-# 🚀 RisingOS Version 6.2 STABLE (Boundless)
+# 🚀 RisingOS Revived Version 6.2.1 STABLE (Boundless)
 
 ## 🌍✨ Introduction
-Go boundless! risingOS v6.2 is here! This update includes Android 15 QPR1 changes, packed with exciting new features, performance improvements, and bug fixes.
+Go boundless! risingOS v6.2.1 is here! This update includes Android 15 QPR1 changes, packed with exciting new features, performance improvements, and bug fixes.
 
 ---
 
 ## 🔒 Security Updates
-- **Android Security Patches:** Up-to-date as of **January 2025** with Android 15 QPR1 changes.
+- **Android Security Patches:** Up-to-date as of **Febuary 2025** with Android 15 QPR1 changes.
 
 ---
 
 ## 💬 Highlights (RisingOS Exclusive Features)
-
-### **💻 Explore Our New Website**  
-- Dive into the world of risingOS at https://risingtechoss.github.io/. Discover the latest firmware updates, news, download options for supported devices, and more!
 
 ### 🔧 **Bug Fixes**
 - Fixed and improved QS Widgets slider animation
