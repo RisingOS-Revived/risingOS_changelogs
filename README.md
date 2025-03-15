@@ -1,16 +1,75 @@
-# 🚀 RisingOS Revived Version 6.2.1 STABLE (Boundless)
+# 🚀 RisingOS Revived Version 6.3 STABLE (Celestia)
 
 ## 🌍✨ Introduction
-Go boundless! risingOS v6.2.1 is here! This update includes Android 15 QPR1 changes, packed with exciting new features, performance improvements, and bug fixes.
+Go Celestia! RisingOS Revived v6.3 is here! This update includes Android 15 QPR1 changes, packed with exciting new features, performance improvements, and bug fixes.
+And always keep the spirit of risingOS and appreciate all the risingOS team for their hard work 🔥🚀💙.
 
 ---
 
 ## 🔒 Security Updates
-- **Android Security Patches:** Up-to-date as of **Febuary 2025** with Android 15 QPR1 changes.
+- **Android Security Patches:** Up-to-date as of **March 2025** with Android 15 QPR1 changes.
 
 ---
+## 📜 March QPR1 Changes
 
-## 💬 Highlights (RisingOS Exclusive Features)
+#### **Add ability to resize QS & status bar clock**
+– Implements a feature allowing users to adjust the size of Quick Settings and status bar clock for better customization.
+
+#### **Add support for status bar custom color**
+– Introduces an option to personalize the status bar color.
+
+#### **Add status bar lyric**
+– Enables real-time lyrics display on the status bar while playing music.
+
+#### **Add dual-tone light and dark themes for QS**
+– Implements dual-tone theming in Quick Settings, offering a refined light/dark blend.
+
+#### **Added extra DNS and adblocker for max security**
+– Enhances security and privacy by integrating additional DNS options and a built-in adblocker.
+
+#### **Add support for hide applist**
+– Introduces an option to hide selected apps from the app drawer and recent apps like HMA.
+
+#### **Add On-Going Action Progress Controller**
+– Implements a controller for tracking progress of ongoing actions in the UI.
+
+#### **Introduce Savitech LHDC Codec**
+– Adds support for Savitech LHDC codec, enhancing Bluetooth audio quality for devices support LHDC codec.
+
+#### **RE-Introduce QS Widgets**
+– Brings back Quick Settings Widgets for easy access to essential controls.
+
+#### **Introduce notification custom corner radius**
+– Adds an option to customize the corner radius of notifications for a sleek look.
+
+#### **Introduce back arrow styles**
+– Implements multiple back arrow styles to match different themes and preferences.
+
+#### **Update brightness slider implementation**
+– Refines the brightness slider implementation for improved performance and responsiveness.
+
+#### **Optimizations from AxionAOSP**
+– Integrates various system optimizations from AxionAOSP to enhance performance and efficiency.
+
+#### **Implement Island notification feature**
+– Adds an Island-style notification pop-up for a more intuitive user experience.
+
+#### **Add a toggle for Settings UI Styles**
+– Introduces a toggle to switch between different UI styles in Settings.
+
+#### **Add back backup/restore settings**
+– Restores the ability to back up and restore system settings for user convenience.
+
+#### **New rainbow effect style**
+– Adds a new vibrant rainbow effect for UI elements.
+
+#### **Implement background process killer**
+– Introduces a feature to kill background processes for better memory management.
+
+#### **Add Battery charge warning**
+– Implements a warning notification sound when significant battery charging limit achieved, to help maintain a longer battery life.
+
+## 💬 Highlights (RisingOS Revived Exclusive Features)
 
 ### 🔧 **Bug Fixes**
 - Fixed and improved QS Widgets slider animation
@@ -23,7 +82,7 @@ Go boundless! risingOS v6.2.1 is here! This update includes Android 15 QPR1 chan
 
 ### 🌟 **Features**
 #### **RisingUI**
-- New risingOS version easter egg (maybe tap the risingOS version multiple times 😉)
+- New RisingOS Revived version easter egg (maybe tap the RisingOS Revived version multiple times 😉)
 
 #### **Introducing Lockscreen widgets info**
 - Display device information like battery temperature/level on the lockscreen
@@ -64,7 +123,7 @@ Go boundless! risingOS v6.2.1 is here! This update includes Android 15 QPR1 chan
 ## 🙌 All Features currently shipped with respective Authors and Contributors
 Below is a detailed compilation of all features incorporated into the current release, accompanied by the acknowledgments of the original authors and contributors of the listed features.
 
-**Disclaimer:** The risingOS team may have made partial modifications to these features. However, it is essential to note that we do not assert or will NEVER assert ownership to any of these features, nor do we claim any part of them as our own. All copyrights and credits belong to their respective authors and contributors.
+**Disclaimer:** The RisingOS Revived team may have made partial modifications to these features. However, it is essential to note that we do not assert or will NEVER assert ownership to any of these features, nor do we claim any part of them as our own. All copyrights and credits belong to their respective authors and contributors.
 
 Your understanding and appreciation for the creativity and efforts of the original contributors are highly valued. We extend our outmost gratitude and appreciation to all the people listed below for their contributions and efforts to the development of these features 🙏
 
