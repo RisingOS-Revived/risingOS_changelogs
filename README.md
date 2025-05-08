@@ -1,83 +1,32 @@
-# 🚀 RisingOS Revived Version 6.3 STABLE (Celestia)
+# 🚀 RisingOS Revived Version 7.0 STABLE (Persis)
 
 ## 🌍✨ Introduction
-Go Celestia! RisingOS Revived v6.3 is here! This update includes Android 15 QPR1 changes, packed with exciting new features, performance improvements, and bug fixes.
+Go Celestia! RisingOS Revived v7.0 is here! This update includes Android 15 QPR2 changes, packed with exciting new features, performance improvements, and bug fixes.
 And always keep the spirit of risingOS and appreciate all the risingOS team for their hard work 🔥🚀💙.
 
 ---
 
 ## 🔒 Security Updates
-- **Android Security Patches:** Up-to-date as of **March 2025** with Android 15 QPR1 changes.
+- **Android Security Patches:** Up-to-date as of **May 2025** with Android 15 QPR2 changes.
 
 ---
-## 📜 March QPR1 Changes
+## 📜 May QPR2 Changes
 
-#### **Add ability to resize QS & status bar clock**
-– Implements a feature allowing users to adjust the size of Quick Settings and status bar clock for better customization.
+#### **Added OneUI 7 battery style**
+– Taken from oneui7 visuals with some adjustments to it.
 
-#### **Add support for status bar custom color**
-– Introduces an option to personalize the status bar color.
+#### **Removed the support for Lawnchair**
+– Removed due to navigation bar changes by Google.
 
-#### **Add status bar lyric**
-– Enables real-time lyrics display on the status bar while playing music.
-
-#### **Add dual-tone light and dark themes for QS**
-– Implements dual-tone theming in Quick Settings, offering a refined light/dark blend.
-
-#### **Added extra DNS and adblocker for max security**
-– Enhances security and privacy by integrating additional DNS options and a built-in adblocker.
-
-#### **Add support for hide applist**
-– Introduces an option to hide selected apps from the app drawer and recent apps like HMA.
-
-#### **Add On-Going Action Progress Controller**
-– Implements a controller for tracking progress of ongoing actions in the UI.
-
-#### **Introduce Savitech LHDC Codec**
-– Adds support for Savitech LHDC codec, enhancing Bluetooth audio quality for devices support LHDC codec.
-
-#### **RE-Introduce QS Widgets**
-– Brings back Quick Settings Widgets for easy access to essential controls.
-
-#### **Introduce notification custom corner radius**
-– Adds an option to customize the corner radius of notifications for a sleek look.
-
-#### **Introduce back arrow styles**
-– Implements multiple back arrow styles to match different themes and preferences.
-
-#### **Update brightness slider implementation**
-– Refines the brightness slider implementation for improved performance and responsiveness.
-
-#### **Optimizations from AxionAOSP**
-– Integrates various system optimizations from AxionAOSP to enhance performance and efficiency.
-
-#### **Implement Island notification feature**
-– Adds an Island-style notification pop-up for a more intuitive user experience.
-
-#### **Add a toggle for Settings UI Styles**
-– Introduces a toggle to switch between different UI styles in Settings.
-
-#### **Add back backup/restore settings**
-– Restores the ability to back up and restore system settings for user convenience.
-
-#### **New rainbow effect style**
-– Adds a new vibrant rainbow effect for UI elements.
-
-#### **Implement background process killer**
-– Introduces a feature to kill background processes for better memory management.
-
-#### **Add Battery charge warning**
-– Implements a warning notification sound when significant battery charging limit achieved, to help maintain a longer battery life.
+#### **Removed support for ram boost**
+– Removed due to some changes by Google.
 
 ## 💬 Highlights (RisingOS Revived Exclusive Features)
 
 ### 🔧 **Bug Fixes**
-- Fixed and improved QS Widgets slider animation
-- Fixed LMOFreeform crashes
-- Fixed misc reported bugs from beta releases
-- Fixed depth wallpaper/media art inconsistencies/glitches
-- Fixed secure QuickSettings not showing the QuickSettings after authentication
-- Spoofing fixes and improvements to unlock google pixel features and fix issues on non-tensor devices (by nivlafx)
+- Fixed and improved overall UI stability
+- Fixed some common crashes
+- Spoofing fixes and improvements to the latest version
 ---
 
 ### 🌟 **Features**
