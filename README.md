@@ -1,32 +1,40 @@
-# 🚀 RisingOS Revived Version 7.0 STABLE (Persis)
+# 🚀 RisingOS Revived Version 8.0 STABLE (Zorya)
 
 ## 🌍✨ Introduction
-Go Celestia! RisingOS Revived v7.0 is here! This update includes Android 15 QPR2 changes, packed with exciting new features, performance improvements, and bug fixes.
+Go Celestia! RisingOS Revived v8.0 is here! This update includes Android 16 QPR0 changes, packed with exciting new features, performance improvements, and bug fixes.
 And always keep the spirit of risingOS and appreciate all the risingOS team for their hard work 🔥🚀💙.
 
 ---
 
 ## 🔒 Security Updates
-- **Android Security Patches:** Up-to-date as of **May 2025** with Android 15 QPR2 changes.
+- **Android Security Patches:** Up-to-date as of **July 2025** with Android 16 QPR0 changes.
+
+### 🔧 **Bug Fixes - IMPORTANT**
+- This is our first release based on android 16 so please expect minor bugs and report them in risingos revived support group
+---
 
 ---
-## 📜 May QPR2 Changes
+## 📜 July QPR0 Changes
 
-#### **Added OneUI 7 battery style**
-– Taken from oneui7 visuals with some adjustments to it.
+#### **Added PopUP view support from SunOS**
+– Another window manager workaround like LMO FreeForm.
 
-#### **Removed the support for Lawnchair**
+#### **Removed support for QuickSwitch**
 – Removed due to navigation bar changes by Google.
 
-#### **Removed support for ram boost**
+#### **Removed support for more lock screen clockfaces**
+– Taken from infinityX.
+
+#### **Removed support for Notification corner radius**
+– Removed due to some changes by Google.
+
+#### **Removed support for Custom Power menu styles**
 – Removed due to some changes by Google.
 
 ## 💬 Highlights (RisingOS Revived Exclusive Features)
 
 ### 🔧 **Bug Fixes**
 - Fixed and improved overall UI stability
-- Fixed some common crashes
-- Spoofing fixes and improvements to the latest version
 ---
 
 ### 🌟 **Features**
