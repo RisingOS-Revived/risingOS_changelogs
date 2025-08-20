@@ -1,41 +1,30 @@
-# 🚀 RisingOS Revived Version 8.0 STABLE (Zorya)
+# 🚀 RisingOS Revived Version 8.1 STABLE (Arete)
 
 ## 🌍✨ Introduction
-Go Celestia! RisingOS Revived v8.0 is here! This update includes Android 16 QPR0 changes, packed with exciting new features, performance improvements, and bug fixes.
+Go Celestia! RisingOS Revived v8.1 is here! This update includes Android 16 QPR0 changes, packed with exciting new features, performance improvements, and bug fixes.
 And always keep the spirit of risingOS and appreciate all the risingOS team for their hard work 🔥🚀💙.
 
 ---
 
 ## 🔒 Security Updates
-- **Android Security Patches:** Up-to-date as of **July 2025** with Android 16 QPR0 changes.
+- **Android Security Patches:** Up-to-date as of **August 2025** with Android 16 QPR0 changes.
 
-### 🔧 **Bug Fixes - IMPORTANT**
-- This is our first release based on android 16 so please expect minor bugs and report them in risingos revived support group
+### 🔧 **Bug Fixes **
+- Fixed custom QS clock
+- Improved Personalizations ui
+- Fixed status bar colored icons
+- Improved the overall experience
 ---
 
 ---
-## 📜 July QPR0 Changes
+## 📜 August QPR0 Changes
 
-#### **Added PopUP view support from SunOS**
-– Another window manager workaround like LMO FreeForm.
+#### **Added lock/unlock sound**
 
-#### **Removed support for QuickSwitch**
-– Removed due to navigation bar changes by Google.
-
-#### **Removed support for more lock screen clockfaces**
-– Taken from infinityX.
-
-#### **Removed support for Notification corner radius**
-– Removed due to some changes by Google.
-
-#### **Removed support for Custom Power menu styles**
-– Removed due to some changes by Google.
+#### **Added AOD wallpaper toggle**
+– shows your wallpaper on AOD
 
 ## 💬 Highlights (RisingOS Revived Exclusive Features)
-
-### 🔧 **Bug Fixes**
-- Fixed and improved overall UI stability
----
 
 ### 🌟 **Features**
 #### **RisingUI**
